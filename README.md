@@ -20,7 +20,7 @@ Just to check that I've learned to create tables in md.
 Who could I thank for ever deciding to go all python?
 <p>Huawei, Eagel team and my amazing colleagues who gave my first Python classes right during work hours!</p>
 
-[Pic](https://catpeople.ru/assets/cache_image/images/kotoskop/koshki-sushi-iz-parallelnoj-vselennoj/0111_870x510_f3e.jpg)
+![Pic](pic.jpg)
 
 ### Fav quote
 > 有朋自远方来, 不亦悦乎?
