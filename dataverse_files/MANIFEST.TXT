@@ -1,0 +1,7 @@
+publications_metadata.tab (text/tab-separated-values) 2482605 bytes.
+publications_txt.zip (application/zip) 99797627 bytes.
+readme.md (text/markdown) 32726 bytes.
+readme.pdf (application/pdf) 96766 bytes.
+supplement_metadata.tab (text/tab-separated-values) 33579 bytes.
+tests/tests_readme.md (text/markdown) 6164 bytes.
+tests/test_integrity.py (text/x-python) 21209 bytes.
